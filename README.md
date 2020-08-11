@@ -1,4 +1,7 @@
-Robot Interaction Module
+Project Name: Robot Interaction Module <br> 
+Author Name: Siddhant Sinha <br>
+Project Date: March 2020 <br> 
+
 
 I Wrote this code to be used by a robot for interacting with humans.
 
